@@ -1,6 +1,6 @@
 # Puzzle8
 
-Worked in a Team of three to create an application that could solve the 8-puzzle problem and output the shortest number of moves to the goal state using Dijkstra’s, BFS, and DFS algorithms
+Worked in a Team of Two to create an application that could solve the 8-puzzle problem and output the shortest number of moves to the goal state using Dijkstra’s, BFS, and DFS algorithms
 
 To be able to run the program for Dijkstra and BFS use the command 
 g++ -std=c++17 -Wall Graph.cpp  main.cpp
